@@ -1,6 +1,6 @@
 # CODTECH-TASK1
 name -Roshni Chavan 
-college - Deogiri institute of engineering and management studies aurangabad 
+college - Deogiri institute of engineering and management studies aurangabad  
 id - CT08DS6651
 DOMAIN- PYTHON PROGRAMMING
 
